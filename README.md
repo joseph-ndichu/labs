@@ -9,5 +9,5 @@ My lab reports and documentation. Each lab has its own full report as a PDF.
 | Connecting to a web server | How IP packets reach a web server, tested with ping and a web browser in Cisco Packet Tracer | [Read the report](connecting-to-a-web-server/Connecting_to_a_Web_Server.pdf) |
 | Remove Linux dual boot | Removing a Linux dual boot from Windows 10 using the Command Prompt | [Read the report](Remove-Linux-Dual-Boot/Remove_Linux_Dual_Boot.pdf) |
 | Installing Cisco Packet Tracer on Kali Linux | Installing Cisco Packet Tracer 9 on Kali Linux and fixing the dependency error | [Read the report](Cisco-Packet-Tracer-on_Kali/Install_Cisco_Packet_Tracer_on_Kali.pdf) |
-
+| Connecting an office network | How office computers connect to the network through a patch panel and wall mounts | [Read the report](Cisco-Packet-Tracer-on_Kali/Install_Cisco_Packet_Tracer_on_Kali.pdf) |
 
